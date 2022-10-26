@@ -1,0 +1,32 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,rentabilidade
+5499,3979611.0,Located at the heart of Manhattan,19407840.0,Peng,Manhattan,Roosevelt Island,40.75592,-73.95515,Entire home/apt,1400.0,90.0,31.0,2015-12-03,0.53,1.0,88.0,421007.4545874239
+2617,1367775.0,Furnished room with private bathroom,7419960.0,Marilyn,Manhattan,Roosevelt Island,40.76175,-73.95012,Private room,54.0,30.0,5.0,2018-08-18,0.15,1.0,2.0,5918.483758531403
+31368,24374428.0,Quiet two BEDROOM APT in MANHATTAN UPPER EAST SIDE,183950956.0,Dante,Manhattan,Roosevelt Island,40.75916,-73.95124,Entire home/apt,220.0,1.0,76.0,2019-06-24,5.3,1.0,60.0,4317.085436572534
+28055,21913309.0,One nice room on the Roosevelt Island; 罗岛一间卧室出租,159884558.0,Lily,Manhattan,Roosevelt Island,40.76191,-73.94934,Private room,45.0,25.0,37.0,2018-07-01,1.89,1.0,149.0,3546.4549839269266
+9285,7093920.0,Roosevelt Island Charm,37181980.0,Svetlana,Manhattan,Roosevelt Island,40.76193,-73.94933,Private room,83.0,2.0,178.0,2019-07-05,3.72,1.0,255.0,2775.5513029475997
+5574,4053287.0,Spacious Apartment with River Views!,21019260.0,Michael And Donna,Manhattan,Roosevelt Island,40.76365,-73.94914,Entire home/apt,125.0,60.0,6.0,2019-06-30,0.11,1.0,278.0,2743.9026583611076
+22381,18076816.0,Beautiful Island life in NYC,20600569.0,Tiffany,Manhattan,Roosevelt Island,40.76213,-73.94971,Private room,100.0,2.0,97.0,2019-06-21,3.57,2.0,142.0,2442.0177526433654
+39797,30940780.0,Waterfront Room with Manhattan View and Balcony,6983558.0,Ben,Manhattan,Roosevelt Island,40.76358,-73.94761,Private room,150.0,2.0,14.0,2019-07-07,2.25,1.0,7.0,2381.1761799581313
+14054,10732197.0,Live on an island in NYC!,22774265.0,Pika,Manhattan,Roosevelt Island,40.76189,-73.94934,Private room,64.0,3.0,51.0,2019-06-30,1.28,1.0,40.0,2064.334856557918
+37393,29678746.0,KalaJones,84077949.0,Gunmala,Manhattan,Roosevelt Island,40.7662,-73.94676,Entire home/apt,250.0,3.0,2.0,2019-01-04,0.31,1.0,1.0,2000.0
+7009,5037654.0,East River view,26005018.0,Pia,Manhattan,Roosevelt Island,40.76193,-73.94942,Private room,65.0,3.0,43.0,2019-05-28,0.81,1.0,35.0,1889.764913572963
+22799,18460119.0,Private Room in Homey Roosevelt Island Apartment,127999994.0,Kate,Manhattan,Roosevelt Island,40.76208,-73.94954,Private room,100.0,2.0,85.0,2019-06-30,3.28,1.0,211.0,1755.4923965948612
+38429,30252034.0,A neat bedroom in a cozy 3-bedroom apartment,227179489.0,Ester,Manhattan,Roosevelt Island,40.76127,-73.95034,Private room,90.0,1.0,46.0,2019-07-01,6.3,1.0,27.0,1593.486742963367
+42588,33060504.0,Five minutes from Central Manhattan,1648510.0,Lee,Manhattan,Roosevelt Island,40.76213,-73.94893,Entire home/apt,160.0,4.0,9.0,2019-06-18,3.38,1.0,33.0,1253.3591228810244
+21150,16783144.0,Wonderful island life in NYC,20600569.0,Tiffany,Manhattan,Roosevelt Island,40.76335,-73.94937,Private room,75.0,1.0,99.0,2019-06-06,3.47,2.0,156.0,1188.951542002772
+227,58467.0,"17 Flr. Manhattan Views, Nr. Subway",279797.0,Dave,Manhattan,Roosevelt Island,40.76193,-73.9501,Private room,120.0,7.0,17.0,2019-05-08,0.3,1.0,341.0,883.777549272576
+26714,21223569.0,My Sunny Island Room,135320687.0,Ladi,Manhattan,Roosevelt Island,40.76301,-73.94959,Private room,85.0,3.0,34.0,2019-05-29,1.6,2.0,195.0,827.8287943895845
+39611,30822815.0,NYC cozy studio,193490396.0,Luping,Manhattan,Roosevelt Island,40.7579,-73.95256,Entire home/apt,185.0,2.0,23.0,2019-06-24,3.37,1.0,295.0,743.2070336825765
+23956,19319184.0,"Cozy Room, on a Park-themed-Iike Island",135320687.0,Ladi,Manhattan,Roosevelt Island,40.76178,-73.94889,Private room,85.0,3.0,24.0,2019-05-26,1.13,2.0,190.0,591.9886200897695
+23110,18718195.0,Private Bedroom in Manhattan,59117179.0,Mariama,Manhattan,Roosevelt Island,40.76364,-73.94881,Private room,110.0,1.0,48.0,2019-06-20,1.86,1.0,342.0,571.0194023802842
+14213,10985093.0,PEACEFUL PRIVATE ROOM/BATH IN BEAUTIFUL GARDEN APT,56995315.0,Nina,Manhattan,Roosevelt Island,40.76366,-73.9479,Private room,79.0,2.0,29.0,2019-07-05,0.74,1.0,321.0,383.61345176340177
+41513,32272082.0,Waterfront apt with Manhattan view and balcony...,152034487.0,Dino,Manhattan,Roosevelt Island,40.76218,-73.94897,Private room,85.0,1.0,20.0,2019-07-02,8.45,1.0,104.0,333.39742973491286
+37712,29889800.0,Large private room overlooking the skyline,16152090.0,Amna,Manhattan,Roosevelt Island,40.76414,-73.949,Private room,175.0,4.0,3.0,2019-04-27,0.43,2.0,362.0,137.96693694725465
+42591,33061453.0,Luxury NYC Rental/Affordable /Roosevelt Island 2,248421148.0,Justin,Manhattan,Roosevelt Island,40.76038,-73.95085,Private room,80.0,6.0,3.0,2019-05-27,1.25,2.0,260.0,104.18917705493512
+39016,30477370.0,Luxury bedroom with River View,21102511.0,Jae,Manhattan,Roosevelt Island,40.76708,-73.94607,Private room,100.0,2.0,2.0,2019-05-19,0.32,1.0,43.0,91.4991421995628
+45259,34643618.0,Cozy Bedroom NYC,109847539.0,Lila,Manhattan,Roosevelt Island,40.76215,-73.95056,Private room,94.0,5.0,1.0,2019-07-05,1.0,2.0,61.0,72.21280028215334
+30479,23586315.0,"Comfort, light and calm just 3 minutes from mid-town",76939238.0,Fiorella,Manhattan,Roosevelt Island,40.75988,-73.95097,Entire home/apt,130.0,2.0,3.0,2018-04-10,0.2,2.0,300.0,67.5499814951862
+38903,30437291.0,Beautiful large room Manhattan/Roosevelt Island,228524640.0,Dragomir,Manhattan,Roosevelt Island,40.7616,-73.95052,Private room,55.0,21.0,1.0,2019-03-08,0.24,1.0,342.0,65.42930652274089
+42522,33007551.0,Luxury NYC Rental / Affordable / Roosevelt Island,248421148.0,Justin,Manhattan,Roosevelt Island,40.76092,-73.95154,Private room,80.0,6.0,1.0,2019-05-31,0.77,2.0,312.0,31.70375695604868
+39387,30712961.0,Sunny and isolated living room on Roosevelt island,229893262.0,Shenqi,Manhattan,Roosevelt Island,40.76564,-73.94528,Private room,43.0,2.0,1.0,2018-12-30,0.16,1.0,50.0,18.243354954612926
+30492,23605182.0,Beautiful Private Room 5 min away from Mid-town,76939238.0,Fiorella,Manhattan,Roosevelt Island,40.76032,-73.95164,Private room,70.0,3.0,1.0,2019-03-17,0.26,2.0,358.0,14.798459832287318
